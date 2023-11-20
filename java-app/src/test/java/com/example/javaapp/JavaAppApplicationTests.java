@@ -7,6 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 @SpringBootTest
 class JavaAppApplicationTests {
 
+    
     @Test
     void contextLoads() {
         int a = 10;
