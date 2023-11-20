@@ -12,7 +12,7 @@ class JavaAppApplicationTests {
     void contextLoads() {
         int a = 10;
         int b = 20;
-    
+
         assertEquals(30, a+b);
     }
 
